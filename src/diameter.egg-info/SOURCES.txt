@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+src/diameter.egg-info/PKG-INFO
+src/diameter.egg-info/SOURCES.txt
+src/diameter.egg-info/dependency_links.txt
+src/diameter.egg-info/not-zip-safe
+src/diameter.egg-info/top_level.txt
+src/diameter/extensions/diameter.cpp
